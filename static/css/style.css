@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+h2 {
+  padding: 1em;
+  text-align: center;
+  background: black;
+  color: white;
+  margin: 0;
+}
+
+.landing {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.portrait-image {
+  height: 800px;
+  width: 570px;
+}
+
+.projects { 
+  padding-top: 2em;
+  padding-bottom: 4em;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: black;
+  color: white;
+}
+
