@@ -31,3 +31,6 @@ h2 {
   color: white;
 }
 
+.about-me {
+  display: flex;
+}
