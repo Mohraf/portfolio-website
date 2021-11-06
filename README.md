@@ -2,7 +2,7 @@
 #### This is a simple Portfolio Website for a Software Developer. {Nov,2021}
 #### By **Amos Okello**
 ## Description
-{The Website contains a landing page, Projects Section and an About Me Page. }
+The Website contains a landing page, Projects Section and an About Me Page.
 ## Setup/Installation Requirements
 * Clone the repository from github
 ```
