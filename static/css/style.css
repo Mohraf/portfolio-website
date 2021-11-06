@@ -5,6 +5,13 @@ body {
 h2 {
   padding: 1em;
   text-align: center;
+  margin: 0;
+  background: #CDCDCD;
+}
+
+.page-title {
+  padding: 1em;
+  text-align: center;
   background: black;
   color: white;
   margin: 0;
@@ -35,4 +42,6 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  background: #CDCDCD;
+  padding-bottom: 2em;
 }
