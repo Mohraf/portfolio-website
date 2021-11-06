@@ -8,7 +8,7 @@ The Website contains a landing page, Projects Section and an About Me Section.
 ```
 git clone https://github.com/Mohraf/portfolio-website.git
 ```
-* Open the project folder with your favorite IDE
+* Open the project folder with your favorite IDE e.g https://code.visualstudio.com/
 * Run the index file with live server.
 ## Known Bugs
 There are currently no bugs that have been experinced with the Website
