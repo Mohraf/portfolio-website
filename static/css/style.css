@@ -45,3 +45,46 @@ h2 {
   background: #CDCDCD;
   padding-bottom: 2em;
 }
+
+.background {
+  text-align: center;
+  justify-content: center;
+}
+
+.contacts {
+  text-align: center;
+}
+
+/** Responsive Styling **/
+@media screen and (max-width: 768px) {
+  .landing{
+    align-items: center;
+  }
+
+  .intro {
+    display: block;
+    text-align: center;
+  }
+
+  .portrait {
+    display: none;
+  }
+
+  .projects{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project-image {
+    height: 200px;
+    width: 350px;
+  }
+
+  .about-me {
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
