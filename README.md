@@ -12,6 +12,10 @@ git clone https://github.com/Mohraf/portfolio-website.git
 * Run the index file with live server.
 ## Known Bugs
 There are currently no bugs that have been experinced with the Website
+## Live Site Link
+```
+https://mohraf.github.io/portfolio-website/
+```
 ## Technologies Used
 - HTML
 - CSS
